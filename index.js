@@ -1,4 +1,4 @@
 
  function login(){
-  window.alert("working@!");
+ alert("Hello Javatpoint");  
 }
